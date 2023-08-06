@@ -1,0 +1,37 @@
+[
+    {
+        "nome": "loja1",
+        "desconto_curto": "10% de desconto",
+        "desconto_longo": "10% de desconto em todos os produtos masculinos",
+        "instagram": "https://www.instagram.com/vitor_herbstrith/",
+        "arroba": "@loja1"
+    },
+    {
+        "nome": "loja2",
+        "desconto_curto": "12% de desconto",
+        "desconto_longo": "10% de desconto em todos os produtos masculinos",
+        "instagram": "https://www.instagram.com/vitor_herbstrith/",
+        "arroba": "@loja2"
+    },
+    {
+        "nome": "loja4",
+        "desconto_curto": "11% de desconto",
+        "desconto_longo": "10% de desconto em tudo",
+        "instagram": "https://www.instagram.com/vitor_herbstrith/",
+        "arroba": "@loja4"
+    },
+    {
+        "nome": "loja3",
+        "desconto_curto": "11% de desconto",
+        "desconto_longo": "100% de desconto em tudo",
+        "instagram": "https://www.instagram.com/vitor_herbstrith/",
+        "arroba": "@loja3"
+    },
+    {
+        "nome": "loja8",
+        "desconto_curto": "11% de desconto",
+        "desconto_longo": "1% de desconto em tudo",
+        "instagram": "https://www.instagram.com/vitor_herbstrith/",
+        "arroba": "@loja8"
+    }
+]

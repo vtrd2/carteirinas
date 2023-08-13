@@ -1,37 +1,51 @@
 [
     {
-        "nome": "loja1",
+        "nome": "BGB Informática",
+        "desconto_curto": "5% de desconto",
+        "desconto_longo": "5% de desconto em manutenções em celulares/computadores. (Serviços em Geral)",
+        "instagram": "https://www.instagram.com/bgbinformatica/",
+        "arroba": "@bgbinformatica"
+    },
+    {
+        "nome": "Vivere",
+        "desconto_curto": "8% de desconto",
+        "desconto_longo": "8% de desconto em todos os produtos.",
+        "instagram": "https://www.instagram.com/vivere_aroma_arte/",
+        "arroba": "@vivere_aroma_arte"
+    },
+    {
+        "nome": "JostFarma",
         "desconto_curto": "10% de desconto",
-        "desconto_longo": "10% de desconto em todos os produtos masculinos",
-        "instagram": "https://www.instagram.com/vitor_herbstrith/",
-        "arroba": "@loja1"
+        "desconto_longo": "10% de desconto em manipulados e perfumaria.",
+        "instagram": "https://www.instagram.com/jostfarmacia/",
+        "arroba": "@jostfarmacia"
     },
     {
-        "nome": "loja2",
-        "desconto_curto": "12% de desconto",
-        "desconto_longo": "10% de desconto em todos os produtos masculinos",
-        "instagram": "https://www.instagram.com/vitor_herbstrith/",
-        "arroba": "@loja2"
+        "nome": "Patussi",
+        "desconto_curto": "23% de desconto",
+        "desconto_longo": "23% de desconto em todos os produtos.",
+        "instagram": "https://www.instagram.com/casaspatussi/",
+        "arroba": "@casaspatussi"
     },
     {
-        "nome": "loja4",
-        "desconto_curto": "11% de desconto",
-        "desconto_longo": "10% de desconto em tudo",
-        "instagram": "https://www.instagram.com/vitor_herbstrith/",
-        "arroba": "@loja4"
+        "nome": "LS Brinquedos e Papelaria",
+        "desconto_curto": "10% de desconto",
+        "desconto_longo": "10% de desconto em todos os produtos.",
+        "instagram": "https://www.instagram.com/lsnoroeste/",
+        "arroba": "@lsnoroeste"
     },
     {
-        "nome": "loja3",
-        "desconto_curto": "11% de desconto",
-        "desconto_longo": "100% de desconto em tudo",
-        "instagram": "https://www.instagram.com/vitor_herbstrith/",
-        "arroba": "@loja3"
+        "nome": "Ótica Exata",
+        "desconto_curto": "10% de desconto",
+        "desconto_longo": "10% de desconto a vista e 5% a prazo, em todos os produtos.",
+        "instagram": "https://www.instagram.com/exata.otica/",
+        "arroba": "@exata.otica"
     },
     {
-        "nome": "loja8",
-        "desconto_curto": "11% de desconto",
-        "desconto_longo": "1% de desconto em tudo",
-        "instagram": "https://www.instagram.com/vitor_herbstrith/",
-        "arroba": "@loja8"
+        "nome": "Telefone Mania",
+        "desconto_curto": "10% de desconto",
+        "desconto_longo": "10% de desconto em todos os produtos.",
+        "instagram": "https://www.instagram.com/telefonemania/",
+        "arroba": "@telefonemania"
     }
 ]
